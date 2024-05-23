@@ -1,4 +1,4 @@
 let eucomopacoca =true
 let eutenhoAlergiAmendoin
 
-console.log(eucomopacocoa);
+console.log(eucomopacoca);
