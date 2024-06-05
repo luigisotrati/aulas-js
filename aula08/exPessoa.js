@@ -4,4 +4,4 @@ let pessoa = {
     cidade: "são paulo",
 }
 
-console.log();
+console.log(pessoa);
